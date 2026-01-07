@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-07T07:21:16.342Z",
+  "lastUpdated": "2026-01-07T17:05:00Z",
   "summary": {
-    "total": 0,
-    "done": 0,
+    "total": 12,
+    "done": 2,
     "inProgress": 0,
-    "todo": 0,
-    "progressPercent": 0
+    "todo": 10,
+    "progressPercent": 16
   },
   "members": {
     "@유재석": {
@@ -24,13 +24,13 @@
       "recentLog": null,
       "totalLogs": 0
     },
-    "@qordpsem": {
+    "@정준하": {
       "role": "백엔드",
-      "currentTask": null,
-      "progress": 0,
-      "lastActivity": null,
-      "recentLog": null,
-      "totalLogs": 0
+      "currentTask": "B-02 DB Schema",
+      "progress": 20,
+      "lastActivity": "2026-01-07T17:05:00Z",
+      "recentLog": "2026-01-07_17-05_@정준하_Project_Setup_and_Server_Init.md",
+      "totalLogs": 1
     }
   }
 }
