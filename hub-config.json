@@ -1,0 +1,23 @@
+{
+  "name": "board_pjt",
+  "description": "간단한 게시판 프로젝트",
+  "leader": "@유재석",
+  "createdAt": "2026-01-07T07:21:16.345Z",
+  "members": [
+    {
+      "nickname": "@유재석",
+      "role": "PM/팀장",
+      "isLeader": true
+    },
+    {
+      "nickname": "@박명수",
+      "role": "프론트엔드",
+      "isLeader": false
+    },
+    {
+      "nickname": "@qordpsem",
+      "role": "백엔드",
+      "isLeader": false
+    }
+  ]
+}

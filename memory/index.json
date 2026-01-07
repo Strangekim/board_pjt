@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2026-01-07T07:21:16.342Z",
+  "summary": {
+    "total": 0,
+    "done": 0,
+    "inProgress": 0,
+    "todo": 0,
+    "progressPercent": 0
+  },
+  "members": {
+    "@유재석": {
+      "role": "PM/팀장",
+      "currentTask": null,
+      "progress": 0,
+      "lastActivity": null,
+      "recentLog": null,
+      "totalLogs": 0
+    },
+    "@박명수": {
+      "role": "프론트엔드",
+      "currentTask": null,
+      "progress": 0,
+      "lastActivity": null,
+      "recentLog": null,
+      "totalLogs": 0
+    },
+    "@qordpsem": {
+      "role": "백엔드",
+      "currentTask": null,
+      "progress": 0,
+      "lastActivity": null,
+      "recentLog": null,
+      "totalLogs": 0
+    }
+  }
+}
