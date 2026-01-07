@@ -20,12 +20,10 @@ board_pjt
 
 <!-- 사용하는 기술을 추가해주세요 -->
 
-| 영역 | 기술 |
-|------|------|
-| Frontend | |
-| Backend | |
-| Database | |
-| 기타 | |
+| Frontend | React (Vite) |
+| Backend | Express.js (Node.js) |
+| Database | PostgreSQL |
+| 기타 | Git, GitHub |
 
 ---
 

@@ -11,11 +11,16 @@
     },
     {
       "nickname": "@박명수",
+      "role": "프론트엔드/팀장",
+      "isLeader": false
+    },
+    {
+      "nickname": "@노홍철",
       "role": "프론트엔드",
       "isLeader": false
     },
     {
-      "nickname": "@qordpsem",
+      "nickname": "@정준하",
       "role": "백엔드",
       "isLeader": false
     }
